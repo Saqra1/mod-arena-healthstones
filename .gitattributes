@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+*.cpp whitespace=trailing-space,space-before-tab,tab-in-indent,cr-at-eol
+*.h whitespace=trailing-space,space-before-tab,tab-in-indent,cr-at-eol
